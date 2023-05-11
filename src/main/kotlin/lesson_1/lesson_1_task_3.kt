@@ -1,7 +1,5 @@
 package lesson_1
 
-import java.sql.Time
-
 fun main(){
     val yearFly: Int = 1961
     var hourFly: Int = 9
