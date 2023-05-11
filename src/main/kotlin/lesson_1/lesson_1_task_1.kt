@@ -1,5 +1,6 @@
 package lesson_1
 
 fun main(){
-    println("Hello GitHub")
+   val countOrder: Int = 75
+   val messageThank: String = "Спасибо за покупку!"
 }
